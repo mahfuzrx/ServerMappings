@@ -4,7 +4,7 @@
     "name": "Astral Network",
     "description": "Astral is the chillest Minecraft Network out there!",
     "addresses": [
-        "play.astralmc.sbs"   
+        "astralmc.sbs"   
     ],
     "primaryAddress": "play.astralmc.sbs",
     "minecraftVersions": [
